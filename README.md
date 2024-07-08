@@ -55,15 +55,15 @@
 
 
 ## Front End Developer  
-👩‍💻 I'm currently working on My " HopeCore " Project
+👩‍💻 I'm currently working on | My " HopeCore " Project |
 
 🧠 I'm currently learning | React | Node.JS | TypeScript | Tailwind | 
 
-👯‍♀️ I'm looking to collaborate on Front End Projects 
+👯‍♀️ I'm looking to collaborate on | Front End Projects | 
 
-💬 Ask me about Web Development 
+💬 Ask me about | Web Development | 
 
-📫 How to reach me : gillomdev@gmail.com
+📫 How to reach me : | gillomdev@gmail.com |
 
 
 
