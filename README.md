@@ -55,9 +55,9 @@
 
 
 ## Front End Developer  
-👩‍💻 I'm currently working on | My " HopeCore " Project |
+👩‍💻 I'm currently working on | HopeCore Mental Health |
 
-🧠 I'm currently learning | React | Node.JS | TypeScript | Tailwind | 
+🧠 I'm currently learning | React | Node JS | TypeScript | Tailwind CSS | 
 
 👯‍♀️ I'm looking to collaborate on | Front End Projects | 
 
