@@ -22,19 +22,21 @@
 
 ###
 
-<h3 align="left">🚀  About Me</h3>
+<h3 align="center">🚀  About Me</h3>
 
 ###
 
-<p align="left">In the dim glow of the screen, I craft worlds with HTML, CSS, and JavaScript—structures wrapped in the elegance of SCSS, Tailwind CSS, and Bootstrap. My designs are shaped in the shadows of Photoshop and Figma, blending function with quiet beauty.<br><br>My journey often leads me to WordPress, where I bind form and function to create living, breathing sites. Lately, I wander deeper into the unknown, learning to wield the powers of React, Node.js, and TypeScript, adding new layers of depth to my creations.<br><br>If your vision thrives in the shadows and seeks an edge of mystery, I invite you to connect. Together, we can build something uniquely haunting and beautiful.</p>
+
+  
+<p align="justified">In the dim glow of the screen, I craft worlds with HTML, CSS, and JavaScript—structures wrapped in the elegance of SCSS, Tailwind CSS, and Bootstrap. My designs are shaped in the shadows of Photoshop and Figma, blending function with quiet beauty.<br><br>My journey often leads me to WordPress, where I bind form and function to create living, breathing sites. Lately, I wander deeper into the unknown, learning to wield the powers of React, Node.js, and TypeScript, adding new layers of depth to my creations.<br><br>If your vision thrives in the shadows and seeks an edge of mystery, I invite you to connect. Together, we can build something uniquely haunting and beautiful.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -66,6 +68,9 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BelmontDev&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=BelmontDev)](https://git.io/streak-stats)
+
 
 ###
